@@ -27,7 +27,7 @@ allprojects {
 Step 2. Add the dependency
 ```java
 dependencies {
-    implementation 'com.github.afreakyelf:Pdf-Viewer:Tag'
+    implementation 'com.github.trendtudung:Pdf-Viewer:Tag'
 }
 ```
 
